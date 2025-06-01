@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Beltah254/X-BOT">
-    <img src="https://img.shields.io/badge/SCENE-MRM-black?style=for-the-badge&logo=github" title="Author">
+  <a href="https://github.com/Beltah254BELTAH-MD-BOT">
+    <img src="https://img.shields.io/badge/BELTAH-MD-black?style=for-the-badge&logo=github" title="Author">
   </a>
   <a href="https://github.com/Beltahtech?tab=followers">
     <img src="https://img.shields.io/github/followers/Beltahtech?label=Followers&style=social" title="Followers">
@@ -19,7 +19,7 @@
   <a href="https://github.com/Beltah254/X-BOT/network/members">
     <img src="https://img.shields.io/github/forks/Beltah254/X-BOT?style=social" title="Forks">
   </a>
-  <a href="https://github.com/Huaweike/AUTOMATIC-BOT/watchers">
+  <a href="https://github.com/BELTAH-MD-BOT/watchers">
     <img src="https://img.shields.io/github/watchers/Huaweike/AUTOMATIC-BOT?label=Watching&style=social" title="Watching">
   </a>
 </p>
@@ -28,13 +28,13 @@
   <a href="https://youtu.be/Beltahtech">
     <img src="https://img.shields.io/badge/Subscribe%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Subscribe">
   </a>
-  <a href="https://github.com/Beltah254/X-BOT/fork">
+  <a href="https://github.com/Beltah254/BELTAH-MD-BOT/fork">
     <img src="https://img.shields.io/badge/Fork%20Repo-6C33FF?style=for-the-badge&logo=github" alt="Fork Repo">
   </a>
-  <a href="https://github.com/Beltah254/X-BOT/stargazers">
+  <a href="https://github.com/Beltah254/BELTAH-MD-BOT/stargazers">
     <img src="https://img.shields.io/badge/Star%20Repo-FFD700?style=for-the-badge&logo=star" alt="Star Repo">
   </a>
-  <a href="https://beltah-md-sessions.onrender.com/">
+  <a href="https://bel-tah-md-sessions.onrender.com/">
     <img src="https://img.shields.io/badge/Visit%20Website-00C853?style=for-the-badge&logo=google-chrome" alt="Visit Website">
   </a>
 </p>
