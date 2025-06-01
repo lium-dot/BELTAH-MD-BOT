@@ -1,83 +1,113 @@
-<h1 align="center">𝐁𝐄𝐋𝐓𝐀𝐇 𝐌𝐃</h1>
-<p align="center">  
+<h1 align="center">✨ 𝐁𝐄𝐋𝐓𝐀𝐇 𝐌𝐃 ✨</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THIS IS +BELTAH MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+BELTAH+TECH;RELEASED+03.01.2025" alt="Typing SVG" /></a>
-  
-  </p>
+<p align="center">
+  <a href="https://github.com/Beltah254/X-BOT">
     <img alt="BELTAH-MD" width="700" height="300" src="https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg">
+  </a>
+</p>
+
 <p align="center">
+  <a href="https://github.com/Beltah254/X-BOT">
+    <img src="https://img.shields.io/badge/SCENE-MRM-black?style=for-the-badge&logo=github" title="Author">
+  </a>
+  <a href="https://github.com/Beltahtech?tab=followers">
+    <img src="https://img.shields.io/github/followers/Beltahtech?label=Followers&style=social" title="Followers">
+  </a>
+  <a href="https://github.com/Beltah254/X-BOT/stargazers/">
+    <img src="https://img.shields.io/github/stars/Beltah254/X-BOT?&style=social" title="Stars">
+  </a>
+  <a href="https://github.com/Beltah254/X-BOT/network/members">
+    <img src="https://img.shields.io/github/forks/Beltah254/X-BOT?style=social" title="Forks">
+  </a>
+  <a href="https://github.com/Huaweike/AUTOMATIC-BOT/watchers">
+    <img src="https://img.shields.io/github/watchers/Huaweike/AUTOMATIC-BOT?label=Watching&style=social" title="Watching">
+  </a>
+</p>
+
 <p align="center">
-<a href="https://github.com/Beltah254/X-BOT "><img title="Author" src="https://img.shields.io/badge/SCENE-MRM-black?style=for-the-badge&logo=github"></a>
-<p/>
-<p align="center">
-<a href="https://github.com/Beltahtech?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Beltahtech?label=Followers&style=social"></a>
-<a href="https://github.com/Beltah254/X-BOT/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Beltah254/x-BOT?&style=social"></a>
-<a href="https://github.com/Beltah254/X-BOT 
-  /network/members"><img title="Forks" src="https://img.shields.io/github/forks/Beltah254/X-BOT?style=social"></a>
-<a href="https://github.com/Huaweike/AUTOMATIC-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Huaweike/AUTOMATIC-BOT?label=Watching&style=social"></a>
-  
+  <a href="https://youtu.be/Beltahtech">
+    <img src="https://img.shields.io/badge/Subscribe%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Subscribe">
+  </a>
+  <a href="https://github.com/Beltah254/X-BOT/fork">
+    <img src="https://img.shields.io/badge/Fork%20Repo-6C33FF?style=for-the-badge&logo=github" alt="Fork Repo">
+  </a>
+  <a href="https://github.com/Beltah254/X-BOT/stargazers">
+    <img src="https://img.shields.io/badge/Star%20Repo-FFD700?style=for-the-badge&logo=star" alt="Star Repo">
+  </a>
+  <a href="https://beltah-md-sessions.onrender.com/">
+    <img src="https://img.shields.io/badge/Visit%20Website-00C853?style=for-the-badge&logo=google-chrome" alt="Visit Website">
+  </a>
+</p>
 
-#### SETTING UP PROCEDURE
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=red&center=true&width=890&height=80&lines=FORKING+THIS+REPO+IS+A+MUST" alt="Typing SVG" /></a>
-***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/BELTAH254/X-BOT/fork) It***
+---
 
-**2.`Get Session ID by pairing or scanning qr Use 2 if 1 fails`'**
+## 🚀 𝐒𝐄𝐓𝐔𝐏 𝐏𝐑𝐎𝐂𝐄𝐃𝐔𝐑𝐄
 
-🗿 [`PAIR CODE 1`](https://bel-tah-md-codes.onrender.com/pair) 
+> <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=36&pause=1000&color=F75B00FF&center=true&vCenter=true&width=600&height=40&lines=Easy+3-Step+Setup" alt="setup">
 
-⚙️ [`PAIR CODE 2`](https://beltah-md-sessions.onrender.com/pair) 
+1. ⭐️ **Star this Repo** &rarr; <a href="https://github.com/Beltah254/X-BOT/stargazers"><img src="https://img.shields.io/github/stars/Beltah254/X-BOT?style=social"></a>
+2. 🍴 **Fork this Repo** &rarr; <a href="https://github.com/Beltah254/X-BOT/fork"><img src="https://img.shields.io/github/forks/Beltah254/X-BOT?style=social"></a>
+3. 🛡️ **Get Your Session ID:**
+    - <a href="https://bel-tah-md-codes.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR%20CODE%201-1BAFBA?style=for-the-badge"></a>
+    - <a href="https://beltah-md-sessions.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR%20CODE%202-1BAFBA?style=for-the-badge"></a>
+    - <a href="https://bel-tah-md-codes.onrender.com/qr"><img src="https://img.shields.io/badge/SCAN%20QR%201-00BFFF?style=for-the-badge"></a>
+    - <a href="https://beltah-md-sessions.onrender.com/qr"><img src="https://img.shields.io/badge/SCAN%20QR%202-00BFFF?style=for-the-badge"></a>
+    - <a href="https://beltah-md-sessions.onrender.com/"><img src="https://img.shields.io/badge/BELTAH%20TECH%20SITE-00C853?style=for-the-badge"></a>
+    - <br>💡 <b>Copy your Session ID; you will need it during deployment.</b>
 
-👻 [`SCAN QR 1`](https://bel-tah-md-codes.onrender.com/qr)
-
-🚦 [`SCAN QR 2`](https://beltah-md-sessions.onrender.com/qr)
-
-✅ [`BELTAH TECH SITE`](https://beltah-md-sessions.onrender.com/)
-
-* - Copy The Session ID for it Will be needed during deployment*
+---
 
 <details>
-<summary>𝐕𝐈𝐄𝐖 𝐋𝐀𝐓𝐄𝐒𝐓 𝐁𝐄𝐋𝐓𝐀𝐇 𝐌𝐃 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐇𝐄𝐑𝐄👇</summary>
-  
+<summary><b>🆕 𝐋𝐀𝐓𝐄𝐒𝐓 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 & 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒</b> <img src="https://img.shields.io/badge/Click%20to%20Expand-1BAFBA?style=flat-square"></summary>
 
--| Commands Name               |Yes  |
--| ----------------------------| ----|
--| •AUTO REACT MESSAGE ADDED   | ✅  |
--| •AUTO REPLY MESSAGE ADDED   | ✅  |
--| •AUTO REACT STATUS ADDED    | ✅  |
--| •AUTO READ MESSAGE ADDED    | ✅  |
--| •AUTO REJECT CALL ADDED     | ✅  |
--| •AUDIO REPLY ADDED          | ✅  |
--| •AUTO SAVE CONTACTS ADDED   | ✅  |
--| •FUN CMD HACK ADDED         | ✅  |
--| •GPT ADDED                  | ✅  |
+| Commands Name                 | Status |
+|------------------------------ |:------:|
+| • AUTO REACT MESSAGE ADDED    |   ✅   |
+| • AUTO REPLY MESSAGE ADDED    |   ✅   |
+| • AUTO REACT STATUS ADDED     |   ✅   |
+| • AUTO READ MESSAGE ADDED     |   ✅   |
+| • AUTO REJECT CALL ADDED      |   ✅   |
+| • AUDIO REPLY ADDED           |   ✅   |
+| • AUTO SAVE CONTACTS ADDED    |   ✅   |
+| • FUN CMD HACK ADDED          |   ✅   |
+| • GPT ADDED                   |   ✅   |
 
 </details>
 
-###  𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔:
+---
 
+## 🌈 𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔
 
- ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://x-bot-fork-cheacker.vercel.app/)***
+<p align="center">
+  <a href="https://x-bot-fork-cheacker.vercel.app/">
+    <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src='https://i.imgur.com/LyHic3i.gif' width="260"/>
+  <img src='https://i.imgur.com/LyHic3i.gif' width="260"/>
+</p>
+
+---
+
+## 🛡️ 𝐃𝐈𝐒𝐂𝐋𝐀𝐈𝐌𝐄𝐑
+
+> Copying or modifying this script is <b>not allowed!</b> No support will be provided for modified versions.
+
+---
+
+## 💬 𝐇𝐄𝐋𝐏 & 𝐒𝐔𝐏𝐏𝐎𝐑𝐓
+
+- Need help? <a href="https://wa.me/254114141192"><img src="https://img.shields.io/badge/Message%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+
+---
+
+## 🙏 𝐒𝐏𝐄𝐂𝐈𝐀𝐋 𝐓𝐇𝐀𝐍𝐊𝐒 𝐓𝐎
+
+- <a href="https://github.com/Beltahtech">**Beltah Tech 254 🇰🇪**</a> for all code and command contributions.
 
 <br>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- 
-
-
-### DISCLAIMER 🛡 
-- Copying or modying this script is not
-allowed! For we shall not offer any help if any error occur!
-
-***
-### HELP :
-**IF you need any help**
-- [**CLICK HERE**](https:wa.me/254114141192)
-
-
-***
-### THANKS TO:
-- [***Beltah Tech 254 🇰🇪***](https://github.com/Beltahtech) For all codes and commands Addition.
-
-
-© BELTAH XBOT ®03/01/2025
+<p align="center">© BELTAH XBOT ® 03/01/2025</p>
