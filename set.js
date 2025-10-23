@@ -15,7 +15,7 @@ module.exports = { session: process.env.SESSION_ID || 'BELTAH-MD',
               
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "non",
     AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'non',
-    AUTO_REACT: process.env.AUTO_REACTION || "non",  
+    AUTO_REACT: process.env.AUTO_REACTION || "yes",  
     URL: process.env.URL || "https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg",  
     AUTO_LIKE_STATUS: process.env.AUTO_LIKE_STATUS || 'non',              
     EMOJIS: process.env.EMOJIS || "👻,☺️,❤️,🦚",              
